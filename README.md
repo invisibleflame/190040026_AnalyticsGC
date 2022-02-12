@@ -8,4 +8,4 @@ Analytics_GC_code.ipynb  - Full training and testing code
 model.pkl - Saved model and weights
 submission.csv - submission predictions
 
-<center><p> Made with ❤️ by Bhuvan Aggarwal </p></center>
+<center><p align='center'> Made with ❤️ by Bhuvan Aggarwal </p></center>
